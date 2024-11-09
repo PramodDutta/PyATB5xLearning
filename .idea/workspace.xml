@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="7th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020_BuiltIn_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_User_Input_Sum_Of_Two_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab006_Variables_Types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab007_Variables_Identifier_Rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab014_Math_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab014_Math_Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +67,13 @@
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
     "Python.Lab014_Math_Functions.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020_BuiltIn_Functions.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_Of_Two_numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_07112024_keywords_identifier_variables"
@@ -86,95 +85,7 @@
       <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab014_Math_Functions">
-    <configuration name="Lab010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab010.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab011.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables/Lab013.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Lab014_Math_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -197,13 +108,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab019" />
+        <item itemvalue="Python.Lab018" />
+        <item itemvalue="Python.Lab017" />
+        <item itemvalue="Python.Lab016" />
         <item itemvalue="Python.Lab014_Math_Functions" />
-        <item itemvalue="Python.Lab013" />
-        <item itemvalue="Python.Lab012" />
-        <item itemvalue="Python.Lab011" />
-        <item itemvalue="Python.Lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +222,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730772445257</updated>
     </task>
+    <task id="LOCAL-00001" summary="7th nov">
+      <option name="closed" value="true" />
+      <created>1730947912243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730947912243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th nov" />
   </component>
 </project>
