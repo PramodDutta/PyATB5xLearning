@@ -10,8 +10,8 @@
 # I/P -> num1, num2 -> int
 # O/P -> sum - int, sub -> int, div -> float
 
-num1 = int(input("Enter the num 1"))
-num2 = int(input("Enter the num 2"))
+num1 = float(input("Enter the num 1"))
+num2 = float(input("Enter the num 2"))
 
 # num1 = int(num1)
 # num2 = int(num2)
