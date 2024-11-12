@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="9th nov - Part2">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="9th nov - Part3">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Operator_Arhematic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operators_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operators_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operators_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operators_P5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operators_P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operators_P7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operators_P9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_User_Input_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_Coding_Q.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +37,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PramodDutta"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PramodDutta&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PramodDutta/PyATB5xLearning.git",
-    "accountId": "c24d73df-db27-47a4-81b1-38b9ef6ccae0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PramodDutta/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;c24d73df-db27-47a4-81b1-38b9ef6ccae0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oPXzNWfSgP1Vzbd9Lga4h02Ada" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,20 +87,36 @@
     "Python.Lab025_Strings.executor": "Run",
     "Python.Lab027_Escape_Char.executor": "Run",
     "Python.Lab028_Escape_Char.executor": "Run",
+    "Python.Lab029_Task1.executor": "Run",
+    "Python.Lab030_Task2.executor": "Run",
+    "Python.Lab031_Operators.executor": "Run",
+    "Python.Lab032_Operator_Arhematic.executor": "Run",
+    "Python.Lab033_Operators_P1.executor": "Run",
+    "Python.Lab033_Operators_P2.executor": "Run",
+    "Python.Lab035_Operators_P4.executor": "Run",
+    "Python.Lab036_Operators_P5.executor": "Run",
+    "Python.Lab037_Operators_P6.executor": "Run",
+    "Python.Lab038_Operators_P7.executor": "Run",
+    "Python.Lab039_Operators_P8.executor": "Run",
+    "Python.Lab040_Operators_P9.executor": "Run",
+    "Python.Lab041_Ternary_Operators.executor": "Run",
+    "Python.Lab041_User_Input_Ternary_Operators.executor": "Run",
+    "Python.Lab042_Coding_Q.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_09112024_Literals_Variables"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_12112024_Operators"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <recent name="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
       <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
       <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab042_Coding_Q">
+    <configuration name="Lab029_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab030_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab024_Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab040_Operators_P9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operators_P9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab027_Escape_Char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab041_User_Input_Ternary_Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_User_Input_Ternary_Operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab028_Escape_Char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab042_Coding_Q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab028_Escape_Char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_Coding_Q.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab028_Escape_Char" />
-        <item itemvalue="Python.Lab027_Escape_Char" />
-        <item itemvalue="Python.Lab024_Strings" />
-        <item itemvalue="Python.Lab019" />
-        <item itemvalue="Python.Lab018" />
+        <item itemvalue="Python.Lab042_Coding_Q" />
+        <item itemvalue="Python.Lab030_Task2" />
+        <item itemvalue="Python.Lab029_Task1" />
+        <item itemvalue="Python.Lab041_User_Input_Ternary_Operators" />
+        <item itemvalue="Python.Lab040_Operators_P9" />
       </list>
     </recent_temporary>
   </component>
@@ -247,13 +276,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731120593350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="9th nov - Part3">
+      <option name="closed" value="true" />
+      <created>1731120926853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731120926853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th nov" />
     <MESSAGE value="9th nov" />
     <MESSAGE value="9th nov - Part2" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th nov - Part2" />
+    <MESSAGE value="9th nov - Part3" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th nov - Part3" />
   </component>
 </project>
