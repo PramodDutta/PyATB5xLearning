@@ -4,28 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="12th Nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab044_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab045_If_Else_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab046_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab049_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab050_For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab053_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_Match_Statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="16th Nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_Functions_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab064_Builts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Real_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,26 +117,36 @@
     "Python.Lab059_Continue.executor": "Run",
     "Python.Lab060_Match_Statement.executor": "Run",
     "Python.Lab061.executor": "Run",
+    "Python.Lab062_Functions.executor": "Run",
+    "Python.Lab063_Functions_Part2.executor": "Run",
+    "Python.Lab066_Pass.executor": "Run",
+    "Python.Lab067_Functions_Types.executor": "Run",
+    "Python.Lab068_Functions_Input.executor": "Run",
+    "Python.Lab069_Functions_Types.executor": "Run",
+    "Python.Lab070_Functions_IQ.executor": "Run",
+    "Python.Lab071_IQ.executor": "Run",
+    "Python.Lab072_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_16112024_Loops"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_19112024_Functions"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <recent name="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
       <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
       <recent name="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
       <recent name="$PROJECT_DIR$/Nov/ex_07112024_keywords_identifier_variables" />
-      <recent name="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab029_Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab067_Functions_Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab030_Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab068_Functions_Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab042_Coding_Q" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab069_Functions_Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_Coding_Q.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab049_For_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab070_Functions_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab049_For_Loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab054_For" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab071_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,11 +243,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054_For.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab054_For" />
-        <item itemvalue="Python.Lab049_For_Loop" />
-        <item itemvalue="Python.Lab042_Coding_Q" />
-        <item itemvalue="Python.Lab030_Task2" />
-        <item itemvalue="Python.Lab029_Task1" />
+        <item itemvalue="Python.Lab071_IQ" />
+        <item itemvalue="Python.Lab070_Functions_IQ" />
+        <item itemvalue="Python.Lab069_Functions_Types" />
+        <item itemvalue="Python.Lab068_Functions_Input" />
+        <item itemvalue="Python.Lab067_Functions_Types" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731379062486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="16th Nov">
+      <option name="closed" value="true" />
+      <created>1731725113913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731725113913</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -329,7 +339,8 @@
     <MESSAGE value="9th nov - Part2" />
     <MESSAGE value="9th nov - Part3" />
     <MESSAGE value="12th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th Nov" />
+    <MESSAGE value="16th Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th Nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
