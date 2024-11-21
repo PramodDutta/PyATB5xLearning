@@ -4,21 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="16th Nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab062_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab063_Functions_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab064_Builts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="19th Nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab077_Local_Var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab078_Inner_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab079_Decortors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab080_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081_WithDecor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082_Real_Decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Decor_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084_IQ_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_IQ_FiizBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab087_Type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab089_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/laB086_iq_Triangle_Classifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab-77_Local_Var.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -127,7 +131,18 @@
     "Python.Lab071_IQ.executor": "Run",
     "Python.Lab072_Args.executor": "Run",
     "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075.executor": "Run",
+    "Python.Lab078_Inner_Functions.executor": "Run",
+    "Python.Lab079_Decortors.executor": "Run",
+    "Python.Lab080_Decor.executor": "Run",
+    "Python.Lab081_WithDecor.executor": "Run",
+    "Python.Lab082_Real_Decor.executor": "Run",
+    "Python.Lab083_Decor_2.executor": "Run",
+    "Python.Lab085_IQ_FiizBuzz.executor": "Run",
+    "Python.Lab087_Type_Conversion.executor": "Run",
+    "Python.Lab089_For_Loop.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
+    "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_19112024_Functions"
@@ -146,28 +161,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab067_Functions_Types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Types.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab068_Functions_Input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -256,13 +249,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab075" />
         <item itemvalue="Python.Lab071_IQ" />
         <item itemvalue="Python.Lab070_Functions_IQ" />
         <item itemvalue="Python.Lab069_Functions_Types" />
         <item itemvalue="Python.Lab068_Functions_Input" />
-        <item itemvalue="Python.Lab067_Functions_Types" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731725113913</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="19th Nov">
+      <option name="closed" value="true" />
+      <created>1731983973210</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731983973210</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,7 +363,8 @@
     <MESSAGE value="9th nov - Part3" />
     <MESSAGE value="12th Nov" />
     <MESSAGE value="16th Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th Nov" />
+    <MESSAGE value="19th Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th Nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -6,7 +6,7 @@
 import math
 
 
-# 1. The can't return -> non return
+# 1. They can't return -> non return
 # No Return Type and No Parameter / Argument - NRNP
 def greet():
     print("Hello")
