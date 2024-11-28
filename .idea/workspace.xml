@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="23th">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab106_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab107_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab108_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab109_Dict_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab110_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict_Frequency_Char_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Dict_IQ_Max_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_IQ_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Dup_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_IQ_count_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="26th">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab117_OOps_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab118_Class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab119_Class_Dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab120_Class_Dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab121_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab122_Calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab122_Calc_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,21 +161,25 @@
     "Python.Lab115_Dict_Dup_Keys.executor": "Run",
     "Python.Lab115_Dict_IQ.executor": "Run",
     "Python.Lab116_IQ_count_vowel.executor": "Run",
+    "Python.Lab118_Class_Dog_P2.executor": "Run",
+    "Python.Lab119_Class_Dog_P2.executor": "Run",
+    "Python.Lab121_Person.executor": "Run",
+    "Python.Lab122_Calc.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_26112024_Dict"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_28112024_OOps"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_28112024_OOps" />
       <recent name="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
       <recent name="$PROJECT_DIR$/Nov/ex_23112024_Lambda_Maps_Filters" />
       <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
       <recent name="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
-      <recent name="$PROJECT_DIR$/Nov/ex_12112024_Operators" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
@@ -396,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732330087403</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="26th">
+      <option name="closed" value="true" />
+      <created>1732588877629</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732588877629</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -409,7 +415,8 @@
     <MESSAGE value="19th Nov" />
     <MESSAGE value="21th" />
     <MESSAGE value="23th" />
-    <option name="LAST_COMMIT_MESSAGE" value="23th" />
+    <MESSAGE value="26th" />
+    <option name="LAST_COMMIT_MESSAGE" value="26th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
