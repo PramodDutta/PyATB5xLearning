@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="26th">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab117_OOps_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab118_Class_Dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab119_Class_Dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab120_Class_Dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab121_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab122_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/Lab122_Calc_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_OOps/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="28th">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab124_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab125_OOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab126_Class_Instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab127_Encap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab128_Ecaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab129_Ecaps_ENV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/Lab129_Ecaps_Ft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_OOPs/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,21 +166,28 @@
     "Python.Lab119_Class_Dog_P2.executor": "Run",
     "Python.Lab121_Person.executor": "Run",
     "Python.Lab122_Calc.executor": "Run",
+    "Python.Lab123_Calc_PC.executor": "Run",
+    "Python.Lab124_OOps.executor": "Run",
+    "Python.Lab125_OOps.executor": "Run",
+    "Python.Lab126_Class_Instance.executor": "Run",
+    "Python.Lab127_Encap.executor": "Run",
+    "Python.Lab128_Ecaps.executor": "Run",
+    "Python.Lab129_Ecaps_ENV.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_28112024_OOps"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Nov/ex_30112024_OOPs"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Nov/ex_30112024_OOPs" />
       <recent name="$PROJECT_DIR$/Nov/ex_28112024_OOps" />
       <recent name="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
       <recent name="$PROJECT_DIR$/Nov/ex_23112024_Lambda_Maps_Filters" />
       <recent name="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
-      <recent name="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
@@ -402,8 +410,19 @@
       <option name="project" value="LOCAL" />
       <updated>1732588877629</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="28th">
+      <option name="closed" value="true" />
+      <created>1732761207859</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732761207859</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="7th nov" />
@@ -416,7 +435,8 @@
     <MESSAGE value="21th" />
     <MESSAGE value="23th" />
     <MESSAGE value="26th" />
-    <option name="LAST_COMMIT_MESSAGE" value="26th" />
+    <MESSAGE value="28th" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
