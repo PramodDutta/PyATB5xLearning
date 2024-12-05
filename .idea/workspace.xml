@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="30th - paRT 2">
-      <change afterPath="$PROJECT_DIR$/Dec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab133_Inheritance_Single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab134_Inheritance_Single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab135_Inheritance_MultiLevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab136_Inheritance_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab137_Inheritance_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab138_Inheritance_Hierarchical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab139_Inheritance_Hybrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab140_Inheritance_REAL_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab141_Polymorphsim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab142_Polymorphsim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/Lab143_Polymorphsim_Method_Override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="3rd Dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab144_Poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab145_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab146_Poly_Method_Overloading_Fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab147_Poly_Method_Overrding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab148_Method_Overriding_REAL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab149_Abstraction_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab150_Abstraction_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab151_Abstraction_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab152_Abstraction_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab155_Static_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab156_OOps_Complete_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,49 +187,38 @@
     "Python.Lab138_Inheritance_Hierarchical.executor": "Run",
     "Python.Lab141_Polymorphsim.executor": "Run",
     "Python.Lab143_Polymorphsim_Method_Override.executor": "Run",
+    "Python.Lab144_Poly.executor": "Run",
+    "Python.Lab145_Poly_Method_Overloading_Fixed.executor": "Run",
+    "Python.Lab146_Poly_Method_Overloading_Fixed.executor": "Run",
+    "Python.Lab147_Poly_Method_Overrding.executor": "Run",
+    "Python.Lab148_Method_Overriding_REAL.executor": "Run",
+    "Python.Lab149_Abstraction_P1.executor": "Run",
+    "Python.Lab149_Abstraction_P2.executor": "Run",
+    "Python.Lab151_Abstraction_P3.executor": "Run",
+    "Python.Lab152_Abstraction_P4.executor": "Run",
+    "Python.Lab153_Static.executor": "Run",
+    "Python.Lab155_Static_P2.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_03122024_OOPs_Inheritance"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_05122024_Poly_Abs"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs" />
       <recent name="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance" />
       <recent name="$PROJECT_DIR$/Nov/ex_30112024_OOPs" />
       <recent name="$PROJECT_DIR$/Nov/ex_28112024_OOps" />
       <recent name="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
-      <recent name="$PROJECT_DIR$/Nov/ex_23112024_Lambda_Maps_Filters" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab070_Functions_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_IQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab071_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -318,13 +307,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab144_Poly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab144_Poly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab144_Poly" />
         <item itemvalue="Python.Lab106_Dict" />
         <item itemvalue="Python.Lab105_SET" />
         <item itemvalue="Python.Lab075" />
         <item itemvalue="Python.Lab071_IQ" />
-        <item itemvalue="Python.Lab070_Functions_IQ" />
       </list>
     </recent_temporary>
   </component>
@@ -448,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732934669555</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="3rd Dec">
+      <option name="closed" value="true" />
+      <created>1733208699551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733208699551</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -468,7 +487,8 @@
     <MESSAGE value="28th" />
     <MESSAGE value="30th" />
     <MESSAGE value="30th - paRT 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="30th - paRT 2" />
+    <MESSAGE value="3rd Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd Dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
