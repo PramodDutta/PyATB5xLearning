@@ -4,20 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="3rd Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab144_Poly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab145_Poly_Method_Overloading_Fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab146_Poly_Method_Overloading_Fixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab147_Poly_Method_Overrding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab148_Method_Overriding_REAL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab149_Abstraction_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab150_Abstraction_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab151_Abstraction_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab152_Abstraction_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab153_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab155_Static_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/Lab156_OOps_Complete_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="5th dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab157_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab158_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab159_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab160_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab161_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab162_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab163_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab164_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab165_Exception_Fix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab166_Exception_try_except_syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab167_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab168_Exception_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab169_Exception_Else_Finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab170_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab171_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab172_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab173_Exception_Custom_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab174_File_IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab175_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab176_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab177_Main_Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab178_Write_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab179_CSV_File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,93 +211,50 @@
     "Python.Lab152_Abstraction_P4.executor": "Run",
     "Python.Lab153_Static.executor": "Run",
     "Python.Lab155_Static_P2.executor": "Run",
+    "Python.Lab157_Exception.executor": "Run",
+    "Python.Lab158_Exception.executor": "Run",
+    "Python.Lab159_Exception.executor": "Run",
+    "Python.Lab160_Exception.executor": "Run",
+    "Python.Lab161_Exception.executor": "Run",
+    "Python.Lab162_Exception.executor": "Run",
+    "Python.Lab163_Exception.executor": "Run",
+    "Python.Lab164_Exception.executor": "Run",
+    "Python.Lab165_Exception_Fix.executor": "Run",
+    "Python.Lab167_Exception.executor": "Run",
+    "Python.Lab168_Exception_Else_Finally.executor": "Run",
+    "Python.Lab169_Exception_Else_Finally.executor": "Run",
+    "Python.Lab170_Exception_Else_Finally.executor": "Run",
+    "Python.Lab170_Exception_OS.executor": "Run",
+    "Python.Lab171_Exception_OS.executor": "Run",
+    "Python.Lab172_Exception_OS.executor": "Run",
+    "Python.Lab173_Exception_Custom_Exception.executor": "Run",
+    "Python.Lab173_File_IO.executor": "Run",
+    "Python.Lab174_Main_Method.executor": "Run",
+    "Python.Lab176_Main_Method.executor": "Run",
+    "Python.Lab177_Main_Method.executor": "Run",
+    "Python.Lab178_Write_File.executor": "Run",
+    "Python.Lab179_CSV_File.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_05122024_Poly_Abs"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_Exceptions"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
       <recent name="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs" />
       <recent name="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance" />
       <recent name="$PROJECT_DIR$/Nov/ex_30112024_OOPs" />
       <recent name="$PROJECT_DIR$/Nov/ex_28112024_OOps" />
-      <recent name="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab071_IQ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_19112024_Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_IQ.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab075.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab105_SET" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab105_SET.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Lab106_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -329,13 +299,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab175_Main_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab175_Main_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab176_Main_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab176_Main_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab177_Main_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab177_Main_Method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab177_Main_Method" />
+        <item itemvalue="Python.Lab176_Main_Method" />
+        <item itemvalue="Python.Lab175_Main_Method" />
         <item itemvalue="Python.Lab144_Poly" />
         <item itemvalue="Python.Lab106_Dict" />
-        <item itemvalue="Python.Lab105_SET" />
-        <item itemvalue="Python.Lab075" />
-        <item itemvalue="Python.Lab071_IQ" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733208699551</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="5th dec">
+      <option name="closed" value="true" />
+      <created>1733366722058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733366722058</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -488,7 +532,8 @@
     <MESSAGE value="30th" />
     <MESSAGE value="30th - paRT 2" />
     <MESSAGE value="3rd Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd Dec" />
+    <MESSAGE value="5th dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
