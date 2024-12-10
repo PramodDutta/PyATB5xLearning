@@ -4,33 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="5th dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab157_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab158_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab159_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab160_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab161_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab162_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab163_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab164_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab165_Exception_Fix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab166_Exception_try_except_syntax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab167_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab168_Exception_Else_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab169_Exception_Else_Finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab170_Exception_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab171_Exception_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab172_Exception_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab173_Exception_Custom_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab174_File_IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab175_Main_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab176_Main_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab177_Main_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab178_Write_File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab179_CSV_File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/__init__.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="7th Dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab180_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab182_Modulue_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab183_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/Lab184_Import_From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/MySQLConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modulus/pythonPackage/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,21 +218,25 @@
     "Python.Lab177_Main_Method.executor": "Run",
     "Python.Lab178_Write_File.executor": "Run",
     "Python.Lab179_CSV_File.executor": "Run",
+    "Python.Lab179_CSV_File_Pandas.executor": "Run",
+    "Python.Lab182_Modulue_P1.executor": "Run",
+    "Python.Lab183_Import_From.executor": "Run",
+    "Python.Lab184_Import_From.executor": "Run",
     "Python.Lan049_For_Loop.executor": "Debug",
     "Python.laB086_iq_Triangle_Classifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_Exceptions"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_10122024_Modulus/browserPackage"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage" />
+      <recent name="$PROJECT_DIR$/Dec/ex_10122024_Modulus" />
       <recent name="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
       <recent name="$PROJECT_DIR$/Dec/ex_05122024_Poly_Abs" />
       <recent name="$PROJECT_DIR$/Dec/ex_03122024_OOPs_Inheritance" />
-      <recent name="$PROJECT_DIR$/Nov/ex_30112024_OOPs" />
-      <recent name="$PROJECT_DIR$/Nov/ex_28112024_OOps" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
@@ -511,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733366722058</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="7th Dec">
+      <option name="closed" value="true" />
+      <created>1733539575478</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733539575478</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -533,7 +529,8 @@
     <MESSAGE value="30th - paRT 2" />
     <MESSAGE value="3rd Dec" />
     <MESSAGE value="5th dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th dec" />
+    <MESSAGE value="7th Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th Dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
