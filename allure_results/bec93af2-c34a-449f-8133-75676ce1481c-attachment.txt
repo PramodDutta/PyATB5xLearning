@@ -1,0 +1,1 @@
+{"firstname":"Sally","lastname":"Smith","totalprice":959,"depositpaid":true,"bookingdates":{"checkin":"2019-09-24","checkout":"2023-06-11"}}
