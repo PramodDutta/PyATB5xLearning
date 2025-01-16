@@ -4,20 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="31 Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_Read/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_Read/test_csv_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_CSV_Read/userdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_fixture_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_fixture_demo_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_fixture_demo_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_02012025_Fixture/test_web_automation.py" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="2nd Jan 2025">
+      <change afterPath="$PROJECT_DIR$/JAN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex01_SeleniumTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex01_SeleniumTest/test_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test02_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test03_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test04_Selenium_3_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test04_Selenium_Commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test05_Selenium_Commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test06_Selenium_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test07_Selenium_multiple_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test08_Selenium_close_quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test09_Selenium_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test10_Selenium_locators_Options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test11_Selenium_locators_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test12_Selenium_locators_miniproject_freetrail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test13_Selenium_locators_miniproject_tagName.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Request_Module/test_Lab193_Pytest_POST_Token.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Request_Module/test_Lab193_Pytest_POST_Token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/1f4eb2ac-ac84-4ebe-b031-6fdcb1033ca3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/3c48fe8e-9c18-4940-b358-770ab62e4f5f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/699e1388-ae31-4852-a25f-d6f6f2355783-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/6d88eb5d-cfe4-41a8-a147-3edcc5ce82b0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/7b636df2-1ee4-4f85-9162-c51ce27e2c56-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/7ba8acf5-8835-4aea-9109-81220d9c3c1d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/7be4e86f-c91f-4efd-9604-e1d3aebf8b76-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/7deb6f2d-4d81-4699-a043-f006b84d9781-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/9da16c95-40b0-4b9d-bc8a-fba16df4df66-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/b5b4712e-df6b-4b44-8870-397aecb4ea08-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/bec93af2-c34a-449f-8133-75676ce1481c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/c61d41aa-8219-41f1-81f7-e70ff1a4af41-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/f75784df-0dad-4261-9918-fc277ed79d79-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +81,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for conftest.test_create_token.executor": "Run",
+    "Python tests.Python tests for test03_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test04_Selenium_Commands.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test05_Selenium_Commands.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test08_Selenium_close_quit.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test09_Selenium_locators.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test10_Selenium_locators_Options.test_katalon_chrome.executor": "Run",
+    "Python tests.Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.Python tests for test_Lab186_Pytest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method3.executor": "Run",
@@ -70,6 +99,7 @@
     "Python tests.Python tests for test_Lab192_Pytest_POST_Token.test_create_token.executor": "Run",
     "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_delete.executor": "Run",
     "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_put_request.executor": "Run",
+    "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_csv_read.Test_READ.test_read_csv.executor": "Run",
     "Python tests.Python tests for test_csv_read.Test_READ.test_read_pandas.executor": "Run",
     "Python tests.Python tests for test_fixture_demo.test_update.executor": "Run",
@@ -248,104 +278,105 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/Dec/ex_02012025_Fixture"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/JAN/ex03_Selenium_Locators"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <recent name="$PROJECT_DIR$/JAN/ex02_Selenium_Basics" />
       <recent name="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
       <recent name="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Request_Module" />
       <recent name="$PROJECT_DIR$/Dec/ex_28122024_Pytest" />
-      <recent name="$PROJECT_DIR$/Dec/ex_10122024_Modulus/browserPackage" />
-      <recent name="$PROJECT_DIR$/Dec/ex_10122024_Modulus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAN/ex01_SeleniumTest" />
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_csv_read.Test_READ.test_read_pandas">
-    <configuration name="Python tests for conftest.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome">
+    <configuration name="Python tests for test09_Selenium_locators.test_katalon_firefox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;conftest.test_create_token&quot;" />
+      <option name="_new_target" value="&quot;test09_Selenium_locators.test_katalon_firefox&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_csv_read.Test_READ.test_read_csv" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test10_Selenium_locators_Options.test_katalon_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_CSV_Read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_csv_read.Test_READ.test_read_csv&quot;" />
+      <option name="_new_target" value="&quot;test10_Selenium_locators_Options.test_katalon_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_csv_read.Test_READ.test_read_pandas" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_CSV_Read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_csv_read.Test_READ.test_read_pandas&quot;" />
+      <option name="_new_target" value="&quot;test11_Selenium_locators_miniproject.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_update.test_update_req_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_update.test_update_req_1&quot;" />
+      <option name="_new_target" value="&quot;test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_web_automation.test_selenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_web_automation.test_selenium&quot;" />
+      <option name="_new_target" value="&quot;test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_csv_read.Test_READ.test_read_pandas" />
-        <item itemvalue="Python tests.Python tests for test_csv_read.Test_READ.test_read_csv" />
-        <item itemvalue="Python tests.Python tests for test_web_automation.test_selenium" />
-        <item itemvalue="Python tests.Python tests for test_update.test_update_req_1" />
-        <item itemvalue="Python tests.Python tests for conftest.test_create_token" />
+        <item itemvalue="Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.Python tests for test10_Selenium_locators_Options.test_katalon_chrome" />
+        <item itemvalue="Python tests.Python tests for test09_Selenium_locators.test_katalon_firefox" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +556,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735612511250</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2nd Jan 2025">
+      <option name="closed" value="true" />
+      <created>1735784158824</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735784158824</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -551,7 +590,8 @@
     <MESSAGE value="10th Dec" />
     <MESSAGE value="28th Dec" />
     <MESSAGE value="31 Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="31 Dec" />
+    <MESSAGE value="2nd Jan 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Jan 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
