@@ -4,40 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="2nd Jan 2025">
-      <change afterPath="$PROJECT_DIR$/JAN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex01_SeleniumTest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex01_SeleniumTest/test_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test02_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test03_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test04_Selenium_3_Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test04_Selenium_Commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test05_Selenium_Commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test06_Selenium_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test07_Selenium_multiple_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex02_Selenium_Basics/test08_Selenium_close_quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test09_Selenium_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test10_Selenium_locators_Options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test11_Selenium_locators_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test12_Selenium_locators_miniproject_freetrail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/ex03_Selenium_Locators/test13_Selenium_locators_miniproject_tagName.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="3459afe4-a4b3-4134-b7f7-baa7a7bb753e" name="Changes" comment="16th Jan">
+      <change afterPath="$PROJECT_DIR$/JAN/ex04_Selenium_Locators_Xpath/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex04_Selenium_Locators_Xpath/test14_Selenium_locators_Xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex05_Selenium_Waits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex05_Selenium_Waits/test_015_Waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex05_Selenium_Waits/test_015_Waits_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex05_Selenium_Waits/test_015_Waits_Fluent_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts/test_alerts_js.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts/test_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts/test_modal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex07_EbayProject_Selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/ex07_EbayProject_Selenium/test_Ebay_Selenium_Project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/1f4eb2ac-ac84-4ebe-b031-6fdcb1033ca3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/3c48fe8e-9c18-4940-b358-770ab62e4f5f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/699e1388-ae31-4852-a25f-d6f6f2355783-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/6d88eb5d-cfe4-41a8-a147-3edcc5ce82b0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/7b636df2-1ee4-4f85-9162-c51ce27e2c56-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/7ba8acf5-8835-4aea-9109-81220d9c3c1d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/7be4e86f-c91f-4efd-9604-e1d3aebf8b76-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/7deb6f2d-4d81-4699-a043-f006b84d9781-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/9da16c95-40b0-4b9d-bc8a-fba16df4df66-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/b5b4712e-df6b-4b44-8870-397aecb4ea08-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/bec93af2-c34a-449f-8133-75676ce1481c-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/c61d41aa-8219-41f1-81f7-e70ff1a4af41-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure_results/f75784df-0dad-4261-9918-fc277ed79d79-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +70,9 @@
     "Python tests.Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test14_Selenium_locators_Xpath.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test_015_Waits.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_015_Waits_Explicit.test_negative_app_vwo_com.executor": "Run",
     "Python tests.Python tests for test_Lab186_Pytest_Learning.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method2.executor": "Run",
     "Python tests.Python tests for test_Lab187_Pytest_Learning02.test_method3.executor": "Run",
@@ -100,12 +83,17 @@
     "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_delete.executor": "Run",
     "Python tests.Python tests for test_Lab193_Pytest_POST_Token.test_put_request.executor": "Run",
     "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_confirm.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_alerts_js.test_alerts_prompt.executor": "Run",
     "Python tests.Python tests for test_csv_read.Test_READ.test_read_csv.executor": "Run",
     "Python tests.Python tests for test_csv_read.Test_READ.test_read_pandas.executor": "Run",
     "Python tests.Python tests for test_fixture_demo.test_update.executor": "Run",
     "Python tests.Python tests for test_fixture_demo_2.test_put.executor": "Run",
     "Python tests.Python tests for test_fixture_demo_2.test_put_2.executor": "Run",
     "Python tests.Python tests for test_fixture_demo_3.test_update_req_1.executor": "Run",
+    "Python tests.Python tests for test_makemytrip.test_alerts_js_alert_normal.executor": "Run",
+    "Python tests.Python tests for test_modal.test_alerts_js_alert_normal.executor": "Run",
     "Python tests.Python tests for test_update.test_update_req_1.executor": "Run",
     "Python tests.Python tests for test_web_automation.test_selenium.executor": "Run",
     "Python.Lab-77_Local_Var.executor": "Run",
@@ -278,105 +266,105 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/JAN/ex03_Selenium_Locators"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/PyATB5xLearning/JAN/ex06_Selenium_Alerts"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
+      <recent name="$PROJECT_DIR$/JAN/ex05_Selenium_Waits" />
+      <recent name="$PROJECT_DIR$/JAN/ex04_Selenium_Locators_Xpath" />
       <recent name="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
       <recent name="$PROJECT_DIR$/JAN/ex02_Selenium_Basics" />
-      <recent name="$PROJECT_DIR$/Dec/ex_02012025_Fixture" />
-      <recent name="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Request_Module" />
-      <recent name="$PROJECT_DIR$/Dec/ex_28122024_Pytest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JAN/ex01_SeleniumTest" />
       <recent name="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome">
-    <configuration name="Python tests for test09_Selenium_locators.test_katalon_firefox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay">
+    <configuration name="Python tests for test_Ebay_Selenium_Project.test_ebay" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex07_EbayProject_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test09_Selenium_locators.test_katalon_firefox&quot;" />
+      <option name="_new_target" value="&quot;test_Ebay_Selenium_Project.test_ebay&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test10_Selenium_locators_Options.test_katalon_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_alerts_js.test_alerts_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test10_Selenium_locators_Options.test_katalon_chrome&quot;" />
+      <option name="_new_target" value="&quot;test_alerts_js.test_alerts_confirm&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_alerts_js.test_alerts_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test11_Selenium_locators_miniproject.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test_alerts_js.test_alerts_prompt&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_makemytrip.test_alerts_js_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test_makemytrip.test_alerts_js_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_modal.test_alerts_js_alert_normal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex03_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN/ex06_Selenium_Alerts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test_modal.test_alerts_js_alert_normal&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.test_app_vwo_login_chrome" />
-        <item itemvalue="Python tests.Python tests for test12_Selenium_locators_miniproject_freetrail.test_app_vwo_login_chrome" />
-        <item itemvalue="Python tests.Python tests for test11_Selenium_locators_miniproject.test_app_vwo_login_chrome" />
-        <item itemvalue="Python tests.Python tests for test10_Selenium_locators_Options.test_katalon_chrome" />
-        <item itemvalue="Python tests.Python tests for test09_Selenium_locators.test_katalon_firefox" />
+        <item itemvalue="Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay" />
+        <item itemvalue="Python tests.Python tests for test_makemytrip.test_alerts_js_alert_normal" />
+        <item itemvalue="Python tests.Python tests for test_modal.test_alerts_js_alert_normal" />
+        <item itemvalue="Python tests.Python tests for test_alerts_js.test_alerts_prompt" />
+        <item itemvalue="Python tests.Python tests for test_alerts_js.test_alerts_confirm" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735784158824</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="16th Jan">
+      <option name="closed" value="true" />
+      <created>1736995106253</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1736995106253</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -591,7 +587,8 @@
     <MESSAGE value="28th Dec" />
     <MESSAGE value="31 Dec" />
     <MESSAGE value="2nd Jan 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Jan 2025" />
+    <MESSAGE value="16th Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th Jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
